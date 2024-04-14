@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Nordic-Alternative-Regular'; /* Den Namen Ihrer Schriftart festlegen */
+    src: url('Nordic-Alternative-Regular.ttf') format('truetype'); /* TTF-Datei referenzieren */
+  }
+.f{
+    font-family: 'Nordic-Alternative-Regular', sans-serif;
+    text-align: center;
+}
+h1, h2, h3{
+  text-decoration: underline;
+}
+.front-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

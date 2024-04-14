@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Nordic-Alternative-Regular'; /* Den Namen Ihrer Schriftart festlegen */
+    src: url('Nordic-Alternative-Regular.ttf') format('truetype'); /* TTF-Datei referenzieren */
+  }
+.font-f{
+    font-family: 'Nordic-Alternative-Regular', sans-serif;
+}
+.header{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+
+}
+.front-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipes-link{
+    text-align: center;
+    list-style-position: inside;
+    font-size: 25px;
+}
